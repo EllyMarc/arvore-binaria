@@ -1,4 +1,4 @@
-# Visualizador 3D de Árvore Binária
+# Visualizador de Árvore Binária
 
 Este projeto consiste numa aplicação interativa interdisciplinar que integra os conceitos de **Programação Orientada a Objetos (POO)** e **Estruturas de Dados em Java** com a renderização gráfica em **Computação Gráfica (CG)** utilizando C++ e OpenGL Moderno.
 
