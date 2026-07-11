@@ -24,7 +24,7 @@ A comunicação entre os dois ecossistemas é realizada nativamente através de 
 * **GLAD**
 * **GLM**
 
-## 🔧 Pré-requisitos e Configuração
+## Pré-requisitos e Configuração
 
 Para executar a aplicação através do Java:
 
