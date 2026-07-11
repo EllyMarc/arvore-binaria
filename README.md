@@ -41,3 +41,5 @@ Para executar a aplicação através do Java:
 * **Rodrigo Moço**
 * **Marcelly Yasmim**
 * **Pedro Artur**
+
+**Vídeo de demonstração de funcionamento:** https://drive.google.com/file/d/19nZpyz9e6bn-MnV9IP5nC3ibdmSf7Agx/view?usp=sharing
