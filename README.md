@@ -10,6 +10,9 @@ A comunicação entre os dois ecossistemas é realizada nativamente através de 
 * **Inserção Dinâmica:** Renderização procedural de esferas na janela assim que um novo nó é adicionado à árvore.
 * **Remoção Visual:** Algoritmo em Java que resolve a reorganização estrutural, envia um comando de limpeza de memória gráfica para o C++ e reconstrói a árvore visual instantaneamente via travessia pré-ordem.
 
+**Vídeo de demonstração de funcionamento:** https://drive.google.com/file/d/19nZpyz9e6bn-MnV9IP5nC3ibdmSf7Agx/view?usp=sharing
+
+
 ## Tecnologias Utilizadas
 
 ### Camada de Lógica e UI (Java/POO)
@@ -41,5 +44,3 @@ Para executar a aplicação através do Java:
 * **Rodrigo Moço**
 * **Marcelly Yasmim**
 * **Pedro Artur**
-
-**Vídeo de demonstração de funcionamento:** https://drive.google.com/file/d/19nZpyz9e6bn-MnV9IP5nC3ibdmSf7Agx/view?usp=sharing
